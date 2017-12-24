@@ -16,6 +16,7 @@ Checkout the code
 ```
 * npm install -g nodemon
 * npm install
+* run nodemon
 ```
 
 More information - [JWT Documentation](https://github.com/auth0/node-jsonwebtoken)
